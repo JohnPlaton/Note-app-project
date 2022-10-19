@@ -1,0 +1,11 @@
+{
+  "name": "file-system-01-adrian-platon",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "note app test"
+  },
+  "author": "john adrian",
+  "license": "ISC",
+  "description": ""
+}
